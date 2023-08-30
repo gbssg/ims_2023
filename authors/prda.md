@@ -1,4 +1,4 @@
-![David Provenzano]![Alt text](<../img/prda.webp>)
+![David Provenzano](<../img/prda.webp>)
 
 ## Kurze Biografie
 
