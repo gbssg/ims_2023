@@ -6,5 +6,6 @@ Die Autoren dieser Referenz sind:
 
 * [David Provenzano](prda.md)
 * [Kashif Najeeb](naka.md)
+* [Tenzin Tsering Tünschitsang](tuten.md)
 
 Begleitet durch [Ueli Niederer](niue.md)
